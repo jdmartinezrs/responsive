@@ -38,6 +38,7 @@ main{
 
  .header__elemento{
  font-size: 20px;
+ margin-left: 5%;
  }
 }
 
@@ -53,6 +54,7 @@ main{
 
 .header__elemento{
 font-size: 40px;
+margin-left: 20%;
 }
 
 }
@@ -70,6 +72,7 @@ font-size: 40px;
 .header__elemento{
 
 font-size: 60px;
+margin-left: 50%;
 }
 
 }
