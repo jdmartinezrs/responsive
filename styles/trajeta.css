@@ -1,0 +1,42 @@
+.container{
+    display: inline-block;
+    padding:60px;
+    position:relative;
+  
+}
+
+.tarjeta__img{
+    width: 140px;
+    height: 120px;
+    display: inline-block;
+}
+
+.tarjeta__h2{
+    display: inline-block;
+    color: black;
+}
+
+.tarjeta__h2, .tarjeta__p{
+    display: inline-block;
+
+}
+.tarjeta__p{
+    display: inline-block;
+}
+
+.tarjeta{
+    background-color: rgb(151, 250, 1);
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    margin-right: 90px;
+    margin-top: 50px;
+    padding: 10px;
+     border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.tarjeta__information{
+    display: inline-block;
+}
