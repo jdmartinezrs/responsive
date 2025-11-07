@@ -20,6 +20,16 @@
       padding: 0 20px;
     }
 
+  .header__img {
+  width: 80px;
+  height: 80px;
+  background-image: url("../img/fo.png");
+  background-size: cover;         
+  background-position: center;    
+  background-repeat: no-repeat;                  
+  margin: 10px auto;              
+}
+
     main {
       background-color: lightslategrey;
       width: 100%;
@@ -121,6 +131,16 @@
         border-bottom: 1px solid rgba(255, 255, 255, 0.2);
         font-size: 20px;
       }
+
+        .header__img {
+  width: 80px;
+  height: 80px;
+  background-image: url("../img/kid10.png");
+  background-size: cover;         
+  background-position: center;    
+  background-repeat: no-repeat;                  
+  margin: 10px auto;              
+}
     }
 
 
@@ -141,6 +161,15 @@
       .header__ul {
         gap: 50px;
       }
+        .header__img {
+  width: 80px;
+  height: 80px;
+  background-image: url("../img/sanke.png");
+  background-size: cover;         
+  background-position: center;    
+  background-repeat: no-repeat;                  
+  margin: 10px auto;              
+}
     }
 
   
@@ -158,4 +187,14 @@
         font-size: 60px;
         margin-left: 50%;
       }
+
+        .header__img {
+  width: 80px;
+  height: 80px;
+  background-image: url("../img/Sin\ título.png");
+  background-size: cover;         
+  background-position: center;    
+  background-repeat: no-repeat;                  
+  margin: 10px auto;              
+}
     }
